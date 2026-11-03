@@ -3,9 +3,9 @@
 https://dilos.cdn.dejacast.com/live//frftv2/tracks-v1a1/mono.ts.m3u8?from=1793193714&to=1793222514&session=rgMLGO59TKaUSTyT&source=cms&token=iFfhPxXnbD_BPkuqcx0BhOYhkUg=
 #EXTINF:-1 tvg-id="FRFTV.ro@HD",FRF TV 3
 https://dilos.cdn.dejacast.com/live//frftv3/tracks-v1a1/mono.ts.m3u8?from=1793193714&to=1793222514&session=rgMLGO59TKaUSTyT&source=cms&token=iFfhPxXnbD_BPkuqcx0BhOYhkUg=
-#EXTINF:-1 tvg-id="UEFA.ro@HD" "tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mg9jyy1787915666.jpg/medium"VIP | RO | UEFA CHAMPIONS LEAGUE | Shakhtar Donetsk vs Sporting CP
+#EXTINF:-1 tvg-id="UEFA.ro@HD" "tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mg9jyy1787915666.jpg/medium",VIP | RO | UEFA CHAMPIONS LEAGUE | Shakhtar Donetsk vs Sporting CP
 https://a122.azplay55.me/hls/streama271170/index.m3u8?cst=9e27b54b23a9f2e373bca105dcf2bc7d
-#EXTINF:-1 tvg-id="UEFA.ro@HD" "tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ml9ezr1787915683.jpg/medium"VIP | RO | UEFA CHAMPIONS LEAGUE | Galatasaray vs Stuttgart
+#EXTINF:-1 tvg-id="UEFA.ro@HD" "tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ml9ezr1787915683.jpg/medium",VIP | RO | UEFA CHAMPIONS LEAGUE | Galatasaray vs Stuttgart
 https://a73.azplay55.me/hls/streama271169/index.m3u8?cst=eb7115cc2790ec8805d654e1eb8f5100
 #EXTINF:-1 tvg-id="AntenaSport.ro@HD" "tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8

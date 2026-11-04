@@ -21,6 +21,8 @@ https://dilos.cdn.dejacast.com/live//prima-sport-5/tracks-v1a1/mono.ts.m3u8?from
 https://dilos.cdn.dejacast.com/live//ppv1/tracks-v1a1/mono.ts.m3u8?from=1793811401&to=1793840201&session=IbhgiwIAUR4kHLl1&source=cms&token=nWBDh_fQr5awlO7WmA3TDGxzyI8=
 #EXTINF:-1 tvg-id="UEFA.ro@HD",VIP | RO | UEFA CHAMPIONS LEAGUE | Prima Sport PPV 2
 https://dilos.cdn.dejacast.com/live//ppv2/tracks-v1a1/mono.ts.m3u8?from=1793811401&to=1793840201&session=IbhgiwIAUR4kHLl1&source=cms&token=nWBDh_fQr5awlO7WmA3TDGxzyI8=
+#EXTINF:-1 tvg-id="UEFA.md@HD",VIP | MD | UEFA CHAMPIONS LEAGUE | We Sport TV
+https://akamaisqli.app/OYLCFEgfM3j-e-ZU7dYCKK5kTC91jd8vg9Dzf9mDhRosjTs/ot_Lt4NzQHwmQgBikAD0wDHrJ5aBL1zdlQCPR0h5iJYJHK4I7YU.htm?token=4aeae2fefbb2348cd20a7f31f186ff00124899bf-8d1cf16f4f8ca96fd72b89f9debd9888-1793824005-1793813205
 #EXTINF:-1 tvg-id="AntenaSport.ro@HD" "tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="AntenaSportPPV1.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10",Antena Sport PPV 1 (1080p)

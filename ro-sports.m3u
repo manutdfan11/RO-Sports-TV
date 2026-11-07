@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FRFTV.ro@HD",FRF TV 3
 https://serifos.cdn.dejacast.com/live//frftv3/tracks-v1a1/mono.ts.m3u8?from=1794040526&to=1794069326&session=xrV64RZcKQwO00i5&source=cms&token=mD8NYA37hiGEiASp_1gouW5ZntQ=
-#EXTINF:-1 tvg-id="PremierLeague.ro@HD" "tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bo1zxn1784549358.jpg",RO | Arsenal VS Hull City
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
-#EXTINF:-1 tvg-id="PremierLeague.en@HD" "tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bo1zxn1784549358.jpg",EN | Arsenal VS Hull City
-http://goldenpass.xyz/live/MAG1KTY2QL/MAG9PCHDUJ/1015554.m3u8
-#EXTINF:-1 tvg-id="PremierLeague.en@HD" "tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5cszgf1793220258.jpg",EN | Fulham VS Newcastle United
-http://goldenpass.xyz/live/MAG1KTY2QL/MAG9PCHDUJ/1100810.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro@HD" "tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="AntenaSportPPV1.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10",Antena Sport PPV 1 (1080p)
@@ -36,7 +30,7 @@ https://live77cdn2.antenaplay.ro/live2_srt8/live2_srt8_3000k.m3u8
 #EXTINF:-1 tvg-id="AntenaSportPPV13.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10",Antena Sport PPV 13 (720p)
 https://live77cdn2.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8
 #EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://vip-acasatv.online:25463/images/d3j3Wy_PPpf221E5gLEvEXWN8glvN2aTQrODYnbQmWt6vc4C13ZXRQSDG9oRPoFSyjVmRterPFZc-x0CrfSR6schD3LMEmo1mj4ioGinuYo.png",VOYO Evenimente Live
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/16677.m3u8
 #EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 2
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus12/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 3
@@ -62,26 +56,26 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus2/live_fullhd?offsetS
 #EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 13
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus1/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="Antena1.ro@HD" "tvg-logo="https://assets.antenaplay.ro/2023/08/17/s7ORLTEcvXhoMzR9L22V.png",Antena 1 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/680.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/680.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro@HD" "tvg-logo="https://assets.antenaplay.ro/2023/04/13/1aJdsf9lZT4qUWnGKSFU.png",Antena 3 CNN HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/681.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/681.m3u8
 #EXTINF:-1 tvg-id="DigiSport1.ro@HD "tvg-logo="https://i.imgur.com/5zMxDYq.png",Digi Sport 1 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/688.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/688.m3u8
 #EXTINF:-1 tvg-id="DigiSport2.ro@HD" "tvg-logo="https://i.imgur.com/KWDUi3v.png",Digi Sport 2 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/689.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/689.m3u8
 #EXTINF:-1 tvg-id="DigiSport3.ro@HD "tvg-logo="https://i.imgur.com/T1ci5UK.png",Digi Sport 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/690.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/690.m3u8
 #EXTINF:-1 tvg-id="DigiSport4.ro@HD "tvg-logo="https://i.imgur.com/Knj9I6f.png",Digi Sport 4 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/691.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/691.m3u8
 #EXTINF:-1 tvg-id="Digi4K.ro@4K "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg?utm_source=ro.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",Digi 4K
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/5928.m3u8
 #EXTINF:-1 tvg-id="EuroSport1.ro@HD" "tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMyUyRmxvZ28l/MkZhcHAlMkZkYXJrdHYlMkZsb2dvX2lv/c19hbmRyb2lkX2V1cm9zcG9ydC5wbmcl/M0ZhJTNEMSZoYXNoPWZiYzg3ZDNiNGJkYTQ5OGFiMWY4Y2M3OWI5YzU0NTFh.png",EuroSport 1 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/695.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/695.m3u8
 #EXTINF:-1 tvg-id="EuroSport2.ro@HD" "tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMyUyRmxvZ28l/MkZhcHAlMkZkYXJrdHYlMkZsb2dvX2lv/c19hbmRyb2lkX2V1cm9zcG9ydDIucG5n/JTNGYSUzRDEmaGFzaD1mMzdlYWM2MGJjMzVlMjJhODViZDkwMjI1ZWM3MzYzOQ==.png",Eurosport 2 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/696.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/696.m3u8
 #EXTINF:-1 tvg-id="EuroSport4K.ro@4K" "tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/eurosport_4k_wide.png",EuroSport 4K
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="Fast&FunBox.ro@HD" "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Fast%26FunBox.svg",Fast&FunBox HD
 https://iptv.prosto.tv/ch120/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.ro@HD" "tvg-logo="https://assets.antenaplay.ro/2026/07/10/a7b09GAjrqFZWe7yW5y9.png",Fight Box HD
@@ -91,15 +85,15 @@ https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.ro@HD" "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Nautical_Channel_%282020%29.svg",Nautical Channel HD
 https://streams2.sofast.tv/ptnr-yupptv/title-Nautical_TV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/f2e7e4ed-1b9c-4404-9fc6-41d0d13880b7/eff1da79-1c05-43df-a4c7-6b3e133d278b/2.m3u8
 #EXTINF:-1 tvg-id="PrimaSport1.ro@HD",Prima Sport 1 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/77.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/77.m3u8
 #EXTINF:-1 tvg-id="PrimaSport2.ro@HD",Prima Sport 2 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6206.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/6206.m3u8
 #EXTINF:-1 tvg-id="PrimaSport3.ro@HD",Prima Sport 3 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6207.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/6207.m3u8
 #EXTINF:-1 tvg-id="PrimaSport4.ro@HD",Prima Sport 4 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6208.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/6208.m3u8
 #EXTINF:-1 tvg-id="PrimaSport5.ro@HD",Prima Sport 5 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9532.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/9532.m3u8
 #EXTINF:-1 tvg-id="Prima4K.ro@4K",Prima 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9508.m3u8
 #EXTINF:-1 ,group-title="PPV",Prima Sport PPV 1 HD
@@ -111,13 +105,13 @@ https://serifos.cdn.dejacast.com/live//ppv3/tracks-v1a1/mono.ts.m3u8?from=179404
 #EXTINF:-1 ,group-title="PPV",Prima Sport PPV 4 HD
 https://serifos.cdn.dejacast.com/live//ppv4/tracks-v1a1/mono.ts.m3u8?from=1794040526&to=1794069326&session=xrV64RZcKQwO00i5&source=cms&token=mD8NYA37hiGEiASp_1gouW5ZntQ=
 #EXTINF:-1 tvg-id="ProTV.ro@HD",Pro TV HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/710.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/710.m3u8
 #EXTINF:-1 tvg-id="ProArena.ro@HD",Pro Arena HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/711.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/711.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD",Realitatea Sportiva (720p)
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="SportExtra.ro@HD",SportExtra HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6048.m3u8
+https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/6048.m3u8
 #EXTINF:-1 tvg-id="TheFishing&HuntingChannel.ro@HD",The Fishing & Hunting Channel HD
 http://31.43.191.142:8080/191703089055131/01703089055686/8767
 #EXTINF:-1 tvg-id="TVR1.ro@SD",TVR 1

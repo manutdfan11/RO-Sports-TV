@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FRFTV.ro@HD",FRF TV 3
 https://serifos.cdn.dejacast.com/live//frftv3/tracks-v1a1/mono.ts.m3u8?from=1794040526&to=1794069326&session=xrV64RZcKQwO00i5&source=cms&token=mD8NYA37hiGEiASp_1gouW5ZntQ=
+#EXTINF:-1 tvg-id="PremierLeague.ro@HD" "tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/y8hq421784549362.jpg/medium",RO | Leeds United VS Tottenham Hotspur
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
+#EXTINF:-1 tvg-id="PremierLeague.en@HD" "tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/y8hq421784549362.jpg/medium",EN | Leeds United VS Tottenham Hotspur
+http://goldenpass.xyz/live/MAG1KTY2QL/MAG9PCHDUJ/1100811.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro@HD" "tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="AntenaSportPPV1.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10",Antena Sport PPV 1 (1080p)

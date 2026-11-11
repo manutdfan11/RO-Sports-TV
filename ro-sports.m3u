@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FRFTV.ro@HD",FRF TV 3
 https://serifos.cdn.dejacast.com/live//frftv3/tracks-v1a1/mono.ts.m3u8?from=1794040526&to=1794069326&session=xrV64RZcKQwO00i5&source=cms&token=mD8NYA37hiGEiASp_1gouW5ZntQ=
+#EXTINF:-1 tvg-id="EuroLeague.en@HD",EuroLeague TV 24/7 1
+http://fontaksarha76.net/live/EJACXYDJYQ669GN/sIzr9q2rQT/1492963.m3u8
+#EXTINF:-1 tvg-id="EuroLeague.en@HD",EuroLeague TV 24/7 2
+http://fontaksarha76.net/live/EJACXYDJYQ669GN/sIzr9q2rQT/1492964.m3u8
+#EXTINF:-1 tvg-id="EuroLeague.en@HD",EuroLeague TV Evenimente LIVE 1
+http://fontaksarha76.net/live/EJACXYDJYQ669GN/sIzr9q2rQT/1492965.m3u8
+#EXTINF:-1 tvg-id="EuroLeague.en@HD",EuroLeague TV Evenimente LIVE 2
+http://fontaksarha76.net/live/EJACXYDJYQ669GN/sIzr9q2rQT/1492966.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro@HD" "tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="AntenaSportPPV1.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10",Antena Sport PPV 1 (1080p)

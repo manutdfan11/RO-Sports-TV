@@ -151,13 +151,13 @@ https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/9532.m3u8
 #EXTINF:-1 tvg-id="Prima4K.ro@UHD",Prima 4K
 http://92.180.26.103/stream/80/index.m3u8
 #EXTINF:-1 ,group-title="PPV",Prima Sport PPV 1 HD
-https://serifos.cdn.dejacast.com/live//ppv1/tracks-v1a1/mono.ts.m3u8?from=1794040526&to=1794069326&session=xrV64RZcKQwO00i5&source=cms&token=mD8NYA37hiGEiASp_1gouW5ZntQ=
+https://sifnos.cdn.dejacast.com/live/ppv1/tracks-v1a1/mono.ts.m3u8?from=1794511035&to=1794539835&session=EO6DwLVTLtafIMfo&source=cms&token=DcrBVCFckHoxtNduQgWysvsq1OE=
 #EXTINF:-1 ,group-title="PPV",Prima Sport PPV 2 HD
-https://serifos.cdn.dejacast.com/live//ppv2/tracks-v1a1/mono.ts.m3u8?from=1794040526&to=1794069326&session=xrV64RZcKQwO00i5&source=cms&token=mD8NYA37hiGEiASp_1gouW5ZntQ=
+https://sifnos.cdn.dejacast.com/live/ppv2/tracks-v1a1/mono.ts.m3u8?from=1794511035&to=1794539835&session=EO6DwLVTLtafIMfo&source=cms&token=DcrBVCFckHoxtNduQgWysvsq1OE=
 #EXTINF:-1 ,group-title="PPV",Prima Sport PPV 3 HD
-https://serifos.cdn.dejacast.com/live//ppv3/tracks-v1a1/mono.ts.m3u8?from=1794040526&to=1794069326&session=xrV64RZcKQwO00i5&source=cms&token=mD8NYA37hiGEiASp_1gouW5ZntQ=
+https://sifnos.cdn.dejacast.com/live/ppv3/tracks-v1a1/mono.ts.m3u8?from=1794511035&to=1794539835&session=EO6DwLVTLtafIMfo&source=cms&token=DcrBVCFckHoxtNduQgWysvsq1OE=
 #EXTINF:-1 ,group-title="PPV",Prima Sport PPV 4 HD
-https://serifos.cdn.dejacast.com/live//ppv4/tracks-v1a1/mono.ts.m3u8?from=1794040526&to=1794069326&session=xrV64RZcKQwO00i5&source=cms&token=mD8NYA37hiGEiASp_1gouW5ZntQ=
+https://sifnos.cdn.dejacast.com/live/ppv4/tracks-v1a1/mono.ts.m3u8?from=1794511035&to=1794539835&session=EO6DwLVTLtafIMfo&source=cms&token=DcrBVCFckHoxtNduQgWysvsq1OE=
 #EXTINF:-1 tvg-id="ProTV.ro@HD",Pro TV HD
 https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/710.m3u8
 #EXTINF:-1 tvg-id="ProArena.ro@HD",Pro Arena HD

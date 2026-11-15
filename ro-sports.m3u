@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FRFTV.ro@HD",FRF TV 3
 https://ios.cdn.dejacast.com/live/frftv3/tracks-v1a1/mono.ts.m3u8?from=1794589193&to=1794617993&session=s3SnniqqBFqVTNOG&source=cms&token=rvULu137r5K_feGDaecEWUxY2f8=
-#EXTINF:-1 tvg-id="UEFA.en@HD",UEFA PPV 1
-https://papacito.cfd/m3u/1562988/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoiMTU2Mjk4OCIsImlhdCI6MTc5NDU5OTkzNywiZXhwIjoxNzk0NjI4NzM3LCJpcCI6Ijg2LjEyMC4xMjYuNzMiLCJ1aWQiOiJlYzA2NzQ1Yy1lYzBhLTRkMzQtODFlYS04NTk5ODQ5YzgzNjgifQ.sfyfqBl29UGd1XCvV5fOwxYSyROcG5kpg4pJtoL96vM
+#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Latvia 🇱🇻 vs Armenia 🇦🇲 link 1
+http://sultanios.alwaysdata.net/vavo.php?ID=2118231470
+#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Latvia 🇱🇻 vs Armenia 🇦🇲 link 2
+http://sultanios.alwaysdata.net/vavo.php?ID=2971289720
+#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Latvia 🇱🇻 vs Armenia 🇦🇲 link 3
+http://sultanios.alwaysdata.net/vavo.php?ID=3949964981
 #EXTINF:-1 tvg-id="UEFA.en@HD",UEFA PPV 2
 https://papacito.cfd/m3u/544448/live.m3u8?ft=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzbHVnIjoiNTQ0NDQ4IiwiaWF0IjoxNzk0NTk5OTQ2LCJleHAiOjE3OTQ2Mjg3NDYsImlwIjoiODYuMTIwLjEyNi43MyIsInVpZCI6ImVjMDY3NDVjLWVjMGEtNGQzNC04MWVhLTg1OTk4NDljODM2OCJ9.8YZLrhEB2q2sdsLT0T13ER47B6QRteyQ0txyqsY_IPA
 #EXTINF:-1 tvg-id="UEFA.en@HD",UEFA PPV 3

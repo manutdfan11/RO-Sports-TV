@@ -1,72 +1,32 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FRFTV.ro@HD",FRF TV 3
 https://ios.cdn.dejacast.com/live/frftv3/tracks-v1a1/mono.ts.m3u8?from=1794589193&to=1794617993&session=s3SnniqqBFqVTNOG&source=cms&token=rvULu137r5K_feGDaecEWUxY2f8=
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Latvia 🇱🇻 vs Armenia 🇦🇲 link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=2118231470
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Latvia 🇱🇻 vs Armenia 🇦🇲 link 2
-http://sultanios.alwaysdata.net/vavo.php?ID=2971289720
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Latvia 🇱🇻 vs Armenia 🇦🇲 link 3
-http://sultanios.alwaysdata.net/vavo.php?ID=3949964981
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Cyprus 🇨🇾 vs Montenegro 🇲🇪 link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Cyprus 🇨🇾 vs Montenegro 🇲🇪 link 2
-http://sultanios.alwaysdata.net/vavo.php?ID=3949964981
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Cyprus 🇨🇾 vs Montenegro 🇲🇪 link 3
-http://sultanios.alwaysdata.net/vavo.php?ID=2013368672
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Cyprus 🇨🇾 vs Montenegro 🇲🇪 link 4
-http://sultanios.alwaysdata.net/vavo.php?ID=1658993918
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Simulcast
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/league/logo/72zt0g1722705821.png" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Simulcast 🌍
 http://sultanios.alwaysdata.net/vavo.php?ID=449990998
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Belarus 🇧🇾 vs Albania 🇦🇱 link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=1658993918
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Belarus 🇧🇾 vs Albania 🇦🇱 link 2
-http://sultanios.alwaysdata.net/vavo.php?ID=2066326916
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Belarus 🇧🇾 vs Albania 🇦🇱 link 3
-http://sultanios.alwaysdata.net/vavo.php?ID=3949964981
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Finland 🇫🇮 vs San Marino 🇸🇲 link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=1658993918
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Finland 🇫🇮 vs San Marino 🇸🇲 link 2
-http://sultanios.alwaysdata.net/vavo.php?ID=260582024
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Finland 🇫🇮 vs San Marino 🇸🇲 link 3
-http://sultanios.alwaysdata.net/vavo.php?ID=2580171593
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Finland 🇫🇮 vs San Marino 🇸🇲 link 4
-http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Simulcast link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=449990998
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Simulcast link 2
-http://sultanios.alwaysdata.net/vavo.php?ID=260582024
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Spain 🇪🇸 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=576177226
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Spain 🇪🇸 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 link 2
-http://sultanios.alwaysdata.net/vavo.php?ID=2021291682
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Spain 🇪🇸 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 link 3
-http://sultanios.alwaysdata.net/vavo.php?ID=3966581533
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Spain 🇪🇸 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 link 4
-http://sultanios.alwaysdata.net/vavo.php?ID=3174529991
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : France 🇫🇷 vs Turkey 🇹🇷 link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=1334669376
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : France 🇫🇷 vs Turkey 🇹🇷 link 2
-http://sultanios.alwaysdata.net/vavo.php?ID=2861010641
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : France 🇫🇷 vs Turkey 🇹🇷 link 3
-http://sultanios.alwaysdata.net/vavo.php?ID=867728420
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : France 🇫🇷 vs Turkey 🇹🇷 link 4
-http://sultanios.alwaysdata.net/vavo.php?ID=2580171593
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Croatia 🇭🇷 vs Czech Republic 🇨🇿 link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=2223753201
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Croatia 🇭🇷 vs Czech Republic 🇨🇿 link 2
-http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Croatia 🇭🇷 vs Czech Republic 🇨🇿 link 3
-http://sultanios.alwaysdata.net/vavo.php?ID=2760717689
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Croatia 🇭🇷 vs Czech Republic 🇨🇿 link 4
-http://sultanios.alwaysdata.net/vavo.php?ID=1413320602
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Belgium 🇧🇪 vs Italy 🇮🇹 link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=1225653759
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Belgium 🇧🇪 vs Italy 🇮🇹 link 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b187s81786994490.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Faroe Islands 🇫🇴 vs Moldova 🇲🇩 link 1
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6225.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b187s81786994490.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Faroe Islands 🇫🇴 vs Moldova 🇲🇩 link 2
+http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/m13ogv1786994488.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Kazakhstan 🇰🇿 vs Slovakia 🇸🇰 link 1
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/7226.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/m13ogv1786994488.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Kazakhstan 🇰🇿 vs Slovakia 🇸🇰 link 2
+http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/m13ogv1786994488.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Kazakhstan 🇰🇿 vs Slovakia 🇸🇰 link 3
+https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c42sj31786994494.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Iceland 🇮🇸 vs Luxembourg 🇱🇺 link 1
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/542.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c42sj31786994494.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Iceland 🇮🇸 vs Luxembourg 🇱🇺 link 2
 http://sultanios.alwaysdata.net/vavo.php?ID=126072654
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Belgium 🇧🇪 vs Italy 🇮🇹 link 3
-http://sultanios.alwaysdata.net/vavo.php?ID=4279401658
-#EXTINF:-1 tvg-id="UEFA.en@HD",⚽ UEFA Nations League : Belgium 🇧🇪 vs Italy 🇮🇹 link 4
-http://sultanios.alwaysdata.net/vavo.php?ID=2971289720
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c42sj31786994494.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Iceland 🇮🇸 vs Luxembourg 🇱🇺 link 3
+http://sultanios.alwaysdata.net/vavo.php?ID=3949964981
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/n42x3n1786994492.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Estonia 🇪🇪 vs Bulgaria 🇧🇬 link 1
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/545.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/n42x3n1786994492.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Estonia 🇪🇪 vs Bulgaria 🇧🇬 link 2
+http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rwgql1786994493.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Lithuania 🇱🇹 vs Liechtenstein 🇱🇮 link 1
+http://sultanios.alwaysdata.net/vavo.php?ID=2118231470
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rwgql1786994493.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Lithuania 🇱🇹 vs Liechtenstein 🇱🇮 link 2
+http://sultanios.alwaysdata.net/vavo.php?ID=3591341829
 #EXTINF:-1 tvg-id="AntenaSport.ro@HD" "tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="AntenaSportPPV1.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10",Antena Sport PPV 1 (1080p)

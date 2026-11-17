@@ -1,38 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FRFTV.ro@HD",FRF TV 3
 https://ios.cdn.dejacast.com/live/frftv3/tracks-v1a1/mono.ts.m3u8?from=1794589193&to=1794617993&session=s3SnniqqBFqVTNOG&source=cms&token=rvULu137r5K_feGDaecEWUxY2f8=
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/league/logo/72zt0g1722705821.png" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Simulcast 🌍
-http://sultanios.alwaysdata.net/vavo.php?ID=449990998
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/no_fanart.png" group-title="EVENIMENTE LIVE",⚽ Spain - Segunda Division : Albacete 🇪🇸 vs Celta de Vigo II 🇪🇸 link
-http://sultanios.alwaysdata.net/vavo.php?ID=3958277473
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/k4kmuw1786994502.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Gibraltar 🇬🇮 vs Malta 🇲🇹 link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=2118231470
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/k4kmuw1786994502.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Gibraltar 🇬🇮 vs Malta 🇲🇹 link 2
-http://sultanios.alwaysdata.net/vavo.php?ID=2929977014
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/m5vvn91786994498.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : North Macedonia 🇲🇰 vs Slovenia 🇸🇮 link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=2760717689
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/m5vvn91786994498.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : North Macedonia 🇲🇰 vs Slovenia 🇸🇮 link 2
-http://sultanios.alwaysdata.net/vavo.php?ID=329119050
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/m5vvn91786994498.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : North Macedonia 🇲🇰 vs Slovenia 🇸🇮 link 3
-http://79.124.49.162:15026
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/libvc51786994496.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Switzerland 🇨🇭 vs Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=2105758006
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/libvc51786994496.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Switzerland 🇨🇭 vs Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 link 2
-http://sultanios.alwaysdata.net/vavo.php?ID=2923969632
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/libvc51786994496.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Switzerland 🇨🇭 vs Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 link 3
-http://79.124.49.162:15023
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/l8pcnv1786994499.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Germany 🇩🇪 vs Netherlands 🇳🇱 link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=592718600
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/l8pcnv1786994499.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Germany 🇩🇪 vs Netherlands 🇳🇱 link 2
-http://sultanios.alwaysdata.net/vavo.php?ID=3029900579
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/l8pcnv1786994499.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Germany 🇩🇪 vs Netherlands 🇳🇱 link 3
-http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ciains1786994501.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Greece 🇬🇷 vs Serbia 🇷🇸 link 1
-http://sultanios.alwaysdata.net/vavo.php?ID=3966581533
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ciains1786994501.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Greece 🇬🇷 vs Serbia 🇷🇸 link 2
-http://sultanios.alwaysdata.net/vavo.php?ID=3977868689
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ciains1786994501.jpg" group-title="EVENIMENTE LIVE",⚽ UEFA Nations League : Greece 🇬🇷 vs Serbia 🇷🇸 link 3
-http://sultanios.alwaysdata.net/vavo.php?ID=2057912072
 #EXTINF:-1 tvg-id="AntenaSport.ro@HD" "tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="AntenaSportPPV1.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10",Antena Sport PPV 1 (1080p)

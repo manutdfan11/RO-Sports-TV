@@ -58,9 +58,9 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus2/live_fullhd?offsetS
 #EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 13
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus1/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="Antena1.ro@HD" "tvg-logo="https://assets.antenaplay.ro/2023/08/17/s7ORLTEcvXhoMzR9L22V.png",Antena 1 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/680.m3u8
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro@HD" "tvg-logo="https://assets.antenaplay.ro/2023/04/13/1aJdsf9lZT4qUWnGKSFU.png",Antena 3 CNN HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/681.m3u8
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
 #EXTINF:-1 tvg-id="DigiSport1.ro@HD "tvg-logo="https://i.imgur.com/5zMxDYq.png",Digi Sport 1 HD
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/688.m3u8
 #EXTINF:-1 tvg-id="DigiSport2.ro@HD" "tvg-logo="https://i.imgur.com/KWDUi3v.png",Digi Sport 2 HD

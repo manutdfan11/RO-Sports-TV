@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FRFTV.ro@HD",FRF TV 3
-https://ios.cdn.dejacast.com/live/frftv3/tracks-v1a1/mono.ts.m3u8?from=1794930131&to=1794958931&session=X9opVGnJY9BV5bIl&source=cms&token=okNUeYe0CiLQhBOCuA8KGolQDjQ=
+https://dilos.cdn.dejacast.com/live/frftv3/tracks-v1a1/mono.ts.m3u8?from=1795253054&to=1795281854&session=0gcuujgpL3gLgTmb&source=cms&token=w83WM8uIDVpbOEJ1EAyRYH-R58g=
 #EXTINF:-1 tvg-id="AntenaSport.ro@HD" "tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="AntenaSportPPV1.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10",Antena Sport PPV 1 (1080p)

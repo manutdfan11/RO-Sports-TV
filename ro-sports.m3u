@@ -72,6 +72,12 @@ https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/689.m3u8
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/690.m3u8
 #EXTINF:-1 tvg-id="DigiSport4.ro@HD "tvg-logo="https://i.imgur.com/Knj9I6f.png",Digi Sport 4 HD
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/691.m3u8
+#EXTINF:-1 tvg-id="DigiSport2.ro@HD" "tvg-logo="https://i.imgur.com/KWDUi3v.png",Digi Sport 2 HD (Backup)
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm
+#EXTINF:-1 tvg-id="DigiSport3.ro@HD "tvg-logo="https://i.imgur.com/T1ci5UK.png",Digi Sport 3 HD (Backup)
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fusergendxt1v7slq2rnd-got.htm
+#EXTINF:-1 tvg-id="DigiSport4.ro@HD "tvg-logo="https://i.imgur.com/Knj9I6f.png",Digi Sport 4 HD (Backup)
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n-got.htm
 #EXTINF:-1 tvg-id="Digi4K.ro@4K "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg?utm_source=ro.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",Digi 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
 #EXTINF:-1 tvg-id="EuroSport1.ro@HD" "tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMyUyRmxvZ28l/MkZhcHAlMkZkYXJrdHYlMkZsb2dvX2lv/c19hbmRyb2lkX2V1cm9zcG9ydC5wbmcl/M0ZhJTNEMSZoYXNoPWZiYzg3ZDNiNGJkYTQ5OGFiMWY4Y2M3OWI5YzU0NTFh.png",EuroSport 1 HD
@@ -98,6 +104,17 @@ https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6207.m3u8
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6208.m3u8
 #EXTINF:-1 tvg-id="PrimaSport5.ro@HD",Prima Sport 5 HD
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9532.m3u8
+#EXTINF:-1 tvg-id="PrimaSport1.ro@HD",Prima Sport 1 HD (Backup)
+#EXTVLCOPT:http-referrer=https://rundle.tv/
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
+#EXTINF:-1 tvg-id="PrimaSport2.ro@HD",Prima Sport 2 HD (Backup)
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
+#EXTINF:-1 tvg-id="PrimaSport3.ro@HD",Prima Sport 3 HD (Backup)
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm
+#EXTINF:-1 tvg-id="PrimaSport4.ro@HD",Prima Sport 4 HD (Backup)
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm
+#EXTINF:-1 tvg-id="PrimaSport5.ro@HD",Prima Sport 5 HD (Backup)
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk5%2Fusergen0grnd8l2y6gw-got.htm
 #EXTINF:-1 tvg-id="Prima4K.ro@UHD",Prima 4K
 http://92.180.26.103/stream/80/index.m3u8
 #EXTINF:-1 ,group-title="PPV",Prima Sport PPV 1 HD

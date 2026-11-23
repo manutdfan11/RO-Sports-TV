@@ -134,7 +134,7 @@ https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="SportExtra.ro@HD",SportExtra HD
 https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/6048.m3u8
 #EXTINF:-1 tvg-id="TheFishing&HuntingChannel.ro@HD",The Fishing & Hunting Channel HD
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Farwen1.panaka001.cfd%2Ffishy%2Fusergenrpz6q-got.htm
+http://91.235.165.117:8002/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro@SD",TVR 1
 https://hls01ns.antenaplay.ro/hls/tvr-1-hd/index.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD",TVR Sport
@@ -144,7 +144,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-id="Moldova1.md@SD",Moldova 1
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/33286/hls/pl.m3u8
 #EXTINF:-1 tvg-id="JurnalTV.md@SD",Jurnal TV
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/32652/hls/pl.m3u8
+http://91.235.165.117:8002/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports.md@HD",Setanta Sports HD MD
 http://eb4b8dcf.kablakaka.ru/iptv/CWL2N4KECYYAXS/19441/index.m3u8
 #EXTINF:-1 tvg-id="WeSportTV.md@SD",We Sport TV

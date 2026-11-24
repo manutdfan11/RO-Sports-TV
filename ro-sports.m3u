@@ -80,10 +80,10 @@ https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fu
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n-got.htm
 #EXTINF:-1 tvg-id="Digi4K.ro@4K "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg?utm_source=ro.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",Digi 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
-#EXTINF:-1 tvg-id="EuroSport1.ro@HD" "tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMyUyRmxvZ28l/MkZhcHAlMkZkYXJrdHYlMkZsb2dvX2lv/c19hbmRyb2lkX2V1cm9zcG9ydC5wbmcl/M0ZhJTNEMSZoYXNoPWZiYzg3ZDNiNGJkYTQ5OGFiMWY4Y2M3OWI5YzU0NTFh.png",EuroSport 1 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/695.m3u8
-#EXTINF:-1 tvg-id="EuroSport2.ro@HD" "tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMyUyRmxvZ28l/MkZhcHAlMkZkYXJrdHYlMkZsb2dvX2lv/c19hbmRyb2lkX2V1cm9zcG9ydDIucG5n/JTNGYSUzRDEmaGFzaD1mMzdlYWM2MGJjMzVlMjJhODViZDkwMjI1ZWM3MzYzOQ==.png",Eurosport 2 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/696.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://91.235.165.117:8002/play/a093/index.m3u8
+#EXTINF:-1,EuroSport 2 HD
+http://91.235.165.117:8002/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="EuroSport4K.ro@4K" "tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/eurosport_4k_wide.png",EuroSport 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="Fast&FunBox.ro@HD" "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Fast%26FunBox.svg",Fast&FunBox HD
@@ -94,14 +94,14 @@ https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.ro@HD" "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Nautical_Channel_%282020%29.svg",Nautical Channel HD
 https://streams2.sofast.tv/ptnr-yupptv/title-Nautical_TV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/f2e7e4ed-1b9c-4404-9fc6-41d0d13880b7/eff1da79-1c05-43df-a4c7-6b3e133d278b/2.m3u8
-#EXTINF:-1 tvg-id="PrimaSport1.ro@HD",Prima Sport 1 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/77.m3u8
-#EXTINF:-1 tvg-id="PrimaSport2.ro@HD",Prima Sport 2 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6206.m3u8
-#EXTINF:-1 tvg-id="PrimaSport3.ro@HD",Prima Sport 3 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6207.m3u8
-#EXTINF:-1 tvg-id="PrimaSport4.ro@HD",Prima Sport 4 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/6208.m3u8
+#EXTINF:-1,Prima Sport 1 HD
+http://91.235.165.117:8001/play/a07x/index.m3u8
+#EXTINF:-1,Prima Sport 2 HD
+http://91.235.165.117:8001/play/a07y/index.m3u8
+#EXTINF:-1,Prima Sport 3 HD
+http://91.235.165.117:8001/play/a07z/index.m3u8
+#EXTINF:-1,Prima Sport 4 HD
+http://91.235.165.117:8001/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="PrimaSport5.ro@HD",Prima Sport 5 HD
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9532.m3u8
 #EXTINF:-1 tvg-id="PrimaSport1.ro@HD",Prima Sport 1 HD (Backup)
@@ -126,13 +126,13 @@ https://dilos.cdn.dejacast.com/live/ppv3/tracks-v1a1/mono.ts.m3u8?from=179535478
 #EXTINF:-1 ,group-title="PPV",Prima Sport PPV 4 HD
 https://dilos.cdn.dejacast.com/live/ppv4/tracks-v1a1/mono.ts.m3u8?from=1795354786&to=1795383586&session=yKOZZZXCrjI5hoIE&source=cms&token=l3gnLJqa7iU4nXewJVpvNaPk6XI=
 #EXTINF:-1 tvg-id="ProTV.ro@HD",Pro TV HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/710.m3u8
+http://91.235.165.117:8001/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="ProArena.ro@HD",Pro Arena HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/711.m3u8
+http://91.235.165.117:8001/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD",Realitatea Sportiva (720p)
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="SportExtra.ro@HD",SportExtra HD
-https://vip-acasatv.online:25463/live/lrZuGxAuP3/6782859900/6048.m3u8
+http://91.235.165.117:8001/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="TheFishing&HuntingChannel.ro@HD",The Fishing & Hunting Channel HD
 http://91.235.165.117:8002/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro@SD",TVR 1

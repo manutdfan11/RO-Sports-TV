@@ -62,14 +62,13 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro@HD" "tvg-logo="https://assets.antenaplay.ro/2023/04/13/1aJdsf9lZT4qUWnGKSFU.png",Antena 3 CNN HD
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
 #EXTINF:-1 tvg-id="DigiSport1.ro@HD "tvg-logo="https://i.imgur.com/5zMxDYq.png",Digi Sport 1 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/688.m3u8
+http://31.43.191.142:8080/191703089055131/01703089055686/23854
 #EXTINF:-1 tvg-id="DigiSport2.ro@HD" "tvg-logo="https://i.imgur.com/KWDUi3v.png",Digi Sport 2 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/689.m3u8
+http://31.43.191.142:8080/191703089055131/01703089055686/23853
 #EXTINF:-1 tvg-id="DigiSport3.ro@HD "tvg-logo="https://i.imgur.com/T1ci5UK.png",Digi Sport 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/690.m3u8
+http://31.43.191.142:8080/191703089055131/01703089055686/23851
 #EXTINF:-1 tvg-id="DigiSport4.ro@HD "tvg-logo="https://i.imgur.com/Knj9I6f.png",Digi Sport 4 HD
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/691.m3u8
+http://31.43.191.142:8080/191703089055131/01703089055686/23852
 #EXTINF:-1 tvg-id="DigiSport2.ro@HD" "tvg-logo="https://i.imgur.com/KWDUi3v.png",Digi Sport 2 HD (Backup)
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm
 #EXTINF:-1 tvg-id="DigiSport3.ro@HD "tvg-logo="https://i.imgur.com/T1ci5UK.png",Digi Sport 3 HD (Backup)

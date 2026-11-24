@@ -3,8 +3,6 @@
 https://dilos.cdn.dejacast.com/live/frftv3/tracks-v1a1/mono.ts.m3u8?from=1795253054&to=1795281854&session=0gcuujgpL3gLgTmb&source=cms&token=w83WM8uIDVpbOEJ1EAyRYH-R58g=
 #EXTINF:-1 tvg-id="AntenaSport.ro@HD" "tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FIFA U-17 World Cup - LIVE" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8aeea257-f899-4841-8d5b-1b9c62a7c8f2&quality=70" group-title="RO-HD",FIFA U-17 World Cup - LIVE
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/19646.m3u8
 #EXTINF:-1 tvg-id="AntenaSportPPV1.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10",Antena Sport PPV 1 (1080p)
 https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8?&token=
 #EXTINF:-1 tvg-id="AntenaSportPPV2.ro" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10",Antena Sport PPV 2 (720p)

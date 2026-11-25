@@ -67,12 +67,14 @@ http://93a5ba6b.ottolok.net/iptv/SE9VMG6FX63VRG/2522/index.m3u8
 http://93a5ba6b.ottolok.net/iptv/SE9VMG6FX63VRG/2524/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport4.ro@HD "tvg-logo="https://i.imgur.com/Knj9I6f.png",Digi Sport 4 HD
 http://93a5ba6b.ottolok.net/iptv/SE9VMG6FX63VRG/2538/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport1.ro@HD "tvg-logo="https://i.imgur.com/5zMxDYq.png",Digi Sport 1 HD (Backup)
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk1%2Fusergendx419snx12kdgwqrnd.m3u8
 #EXTINF:-1 tvg-id="DigiSport2.ro@HD" "tvg-logo="https://i.imgur.com/KWDUi3v.png",Digi Sport 2 HD (Backup)
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd.m3u8
 #EXTINF:-1 tvg-id="DigiSport3.ro@HD "tvg-logo="https://i.imgur.com/T1ci5UK.png",Digi Sport 3 HD (Backup)
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fusergendxt1v7slq2rnd-got.htm
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fusergendxt1v7slq2rnd.m3u8
 #EXTINF:-1 tvg-id="DigiSport4.ro@HD "tvg-logo="https://i.imgur.com/Knj9I6f.png",Digi Sport 4 HD (Backup)
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n-got.htm
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n.m3u8
 #EXTINF:-1 tvg-id="Digi4K.ro@4K "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg?utm_source=ro.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",Digi 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
 #EXTINF:-1,Eurosport 1 HD
@@ -101,21 +103,21 @@ http://91.235.165.117:8001/play/a080/index.m3u8
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/9532.m3u8
 #EXTINF:-1 tvg-id="PrimaSport1.ro@HD",Prima Sport 1 HD (Backup)
 #EXTVLCOPT:http-referrer=https://rundle.tv/
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq.m3u8
 #EXTINF:-1 tvg-id="PrimaSport2.ro@HD",Prima Sport 2 HD (Backup)
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt.m3u8
 #EXTINF:-1 tvg-id="PrimaSport3.ro@HD",Prima Sport 3 HD (Backup)
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr.m3u8
 #EXTINF:-1 tvg-id="PrimaSport4.ro@HD",Prima Sport 4 HD (Backup)
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd.m3u8
 #EXTINF:-1 tvg-id="PrimaSport5.ro@HD",Prima Sport 5 HD (Backup)
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk5%2Fusergen0grnd8l2y6gw-got.htm
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk5%2Fusergen0grnd8l2y6gw.m3u8
 #EXTINF:-1 tvg-id="Prima4K.ro@UHD",Prima 4K
 http://92.180.26.103/stream/80/index.m3u8
 #EXTINF:-1 ,group-title="PPV",Prima Sport PPV 1 HD
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm.m3u8
 #EXTINF:-1 ,group-title="PPV",Prima Sport PPV 2 HD
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l.m3u8
 #EXTINF:-1 ,group-title="PPV",Prima Sport PPV 3 HD
 https://dilos.cdn.dejacast.com/live/ppv3/tracks-v1a1/mono.ts.m3u8?from=1795354786&to=1795383586&session=yKOZZZXCrjI5hoIE&source=cms&token=l3gnLJqa7iU4nXewJVpvNaPk6XI=
 #EXTINF:-1 ,group-title="PPV",Prima Sport PPV 4 HD

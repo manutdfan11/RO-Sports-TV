@@ -31,44 +31,42 @@ https://live77cdn2.antenaplay.ro/live2_srt8/live2_srt8_3000k.m3u8
 https://live77cdn2.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8
 #EXTINF:-1 tvg-id="VoyoSport1.ro@HD",Voyo Sport 1 HD
 http://89.45.22.101:8011/play/1/index.m3u8
-#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://vip-acasatv.online:25463/images/d3j3Wy_PPpf221E5gLEvEXWN8glvN2aTQrODYnbQmWt6vc4C13ZXRQSDG9oRPoFSyjVmRterPFZc-x0CrfSR6schD3LMEmo1mj4ioGinuYo.png",VOYO Evenimente Live
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
-#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 2
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 1
 http://89.45.22.101:8011/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 3
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 2
 http://89.45.22.101:8011/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 4
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 3
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus10/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 5
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 4
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus9/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 6
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 5
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus8/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 7
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 6
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus7/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 8
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 7
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus6/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 9
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 8
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 10
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 9
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus4/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 11
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 10
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus3/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 12
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 11
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus2/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 13
+#EXTINF:-1 tvg-id="VOYO.ro@HD" "tvg-logo="https://cloudia.cms-ro.jyxo.net/rxn/?default=bfa9a271-fc26-41c3-9236-d86d77d9987b",VOYO Evenimente Live 12
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus1/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="Antena1.ro@HD" "tvg-logo="https://assets.antenaplay.ro/2023/08/17/s7ORLTEcvXhoMzR9L22V.png",Antena 1 HD
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro@HD" "tvg-logo="https://assets.antenaplay.ro/2023/04/13/1aJdsf9lZT4qUWnGKSFU.png",Antena 3 CNN HD
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
 #EXTINF:-1 tvg-id="DigiSport1.ro@HD "tvg-logo="https://i.imgur.com/5zMxDYq.png",Digi Sport 1 HD
-http://31.43.191.142:8080/live/191703089055131/01703089055686/23854.m3u8
+http://93a5ba6b.ottolok.net/iptv/SE9VMG6FX63VRG/2523/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport2.ro@HD" "tvg-logo="https://i.imgur.com/KWDUi3v.png",Digi Sport 2 HD
-http://31.43.191.142:8080/live/191703089055131/01703089055686/23853.m3u8
+http://93a5ba6b.ottolok.net/iptv/SE9VMG6FX63VRG/2522/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport3.ro@HD "tvg-logo="https://i.imgur.com/T1ci5UK.png",Digi Sport 3 HD
-http://31.43.191.142:8080/live/191703089055131/01703089055686/23851.m3u8
+http://93a5ba6b.ottolok.net/iptv/SE9VMG6FX63VRG/2524/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport4.ro@HD "tvg-logo="https://i.imgur.com/Knj9I6f.png",Digi Sport 4 HD
-http://31.43.191.142:8080/live/191703089055131/01703089055686/23852.m3u8
+http://93a5ba6b.ottolok.net/iptv/SE9VMG6FX63VRG/2538/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport2.ro@HD" "tvg-logo="https://i.imgur.com/KWDUi3v.png",Digi Sport 2 HD (Backup)
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm
 #EXTINF:-1 tvg-id="DigiSport3.ro@HD "tvg-logo="https://i.imgur.com/T1ci5UK.png",Digi Sport 3 HD (Backup)

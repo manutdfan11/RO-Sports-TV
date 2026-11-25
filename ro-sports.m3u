@@ -124,6 +124,16 @@ https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2F
 https://dilos.cdn.dejacast.com/live/ppv3/tracks-v1a1/mono.ts.m3u8?from=1795354786&to=1795383586&session=yKOZZZXCrjI5hoIE&source=cms&token=l3gnLJqa7iU4nXewJVpvNaPk6XI=
 #EXTINF:-1 ,group-title="PPV",Prima Sport PPV 4 HD
 https://dilos.cdn.dejacast.com/live/ppv4/tracks-v1a1/mono.ts.m3u8?from=1795354786&to=1795383586&session=yKOZZZXCrjI5hoIE&source=cms&token=l3gnLJqa7iU4nXewJVpvNaPk6XI=
+#EXTINF:-1 tvg-id="PrimaSport1.ro@HD",Prima Sport 1 HD (Live Events only)
+https://serifos.cdn.dejacast.com/live/prima-sport-1/tracks-v1a1/mono.ts.m3u8?from=1795628174&to=1795656974&session=9a19zuwCUwDkZgLU&source=cms&token=TNLBrl_KdLgSqK5Kl68Wdz7ebpo=
+#EXTINF:-1 tvg-id="PrimaSport2.ro@HD",Prima Sport 2 HD (Live Events only)
+https://serifos.cdn.dejacast.com/live/prima-sport-2/tracks-v1a1/mono.ts.m3u8?from=1795628174&to=1795656974&session=9a19zuwCUwDkZgLU&source=cms&token=TNLBrl_KdLgSqK5Kl68Wdz7ebpo=
+#EXTINF:-1 tvg-id="PrimaSport3.ro@HD",Prima Sport 3 HD (Live Events only)
+https://serifos.cdn.dejacast.com/live/prima-sport-3/tracks-v1a1/mono.ts.m3u8?from=1795628174&to=1795656974&session=9a19zuwCUwDkZgLU&source=cms&token=TNLBrl_KdLgSqK5Kl68Wdz7ebpo=
+#EXTINF:-1 tvg-id="PrimaSport4.ro@HD",Prima Sport 4 HD (Live Events only)
+https://serifos.cdn.dejacast.com/live/prima-sport-4/tracks-v1a1/mono.ts.m3u8?from=1795628174&to=1795656974&session=9a19zuwCUwDkZgLU&source=cms&token=TNLBrl_KdLgSqK5Kl68Wdz7ebpo=
+#EXTINF:-1 tvg-id="PrimaSport5.ro@HD",Prima Sport 5 HD (Live Events only)
+https://serifos.cdn.dejacast.com/live/prima-sport-5/tracks-v1a1/mono.ts.m3u8?from=1795628174&to=1795656974&session=9a19zuwCUwDkZgLU&source=cms&token=TNLBrl_KdLgSqK5Kl68Wdz7ebpo=
 #EXTINF:-1 tvg-id="ProTV.ro@HD",Pro TV HD
 http://91.235.165.117:8001/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="ProArena.ro@HD",Pro Arena HD

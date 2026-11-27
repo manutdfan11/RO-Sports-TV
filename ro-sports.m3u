@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="FRFTV.ro@HD",FRF TV 3
 https://dilos.cdn.dejacast.com/live/frftv3/tracks-v1a1/mono.ts.m3u8?from=1795253054&to=1795281854&session=0gcuujgpL3gLgTmb&source=cms&token=w83WM8uIDVpbOEJ1EAyRYH-R58g=
 #EXTINF:-1 tvg-id="RomaniaU17.ro@HD" "tvg-logo="https://www.tvzonehd.com/img/u17-1795511810.webp",Romania U17 - LIVE
-https://akamaisqli.app/p0nQPpvUt6EQdtd6o7VMsMHE_gsaW1mVMQZyT7btD920MhQiAAg/LY3ke9cM9AWruUrRYvOycoYe_u4EBQhNlaD5qghx2xFbih_0p6r0VoqsiGNvcPVMmg.htm?token=76d3ff780c655687a71183cb3bf75787fb17e3e6-f3f199857c67e131b37fb6511fc5b2b6-1795619801-1795609001
+https://akamaisqli.app/p0nQPpvUt6EQdtd6o7VMsMHE_gsaW1mVMQZyT7btD920MhQiAAg/LY3ke9cM9AWruUrRYvOycoYe_u4EBQhNlaD5qghx2xFbih_0p6r0VoqsiGNvcPVMmg.htm?token=b13db0e0466462556f1ba144a204505a15f6ed96-8bb5778c4c2d3591a91b042c5ae7cdd6-1795805123-1795794323
 #EXTINF:-1 tvg-id="AntenaSport.ro@HD" "tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="AntenaSportPPV1.ro@HD" "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttJM8y1o--nGhjljInF-2s5cizFi36n2WQFYuqdULTY5MgOog2Vl_EHg&s=10",Antena Sport PPV 1 (1080p)
